@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jcomello.github.io/a-nobody/sitemap.xml
+Sitemap: https://jcomello.github.io/sitemap.xml
